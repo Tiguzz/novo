@@ -1,0 +1,321 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/las-estrellas.png",Las Estrellas
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX19s%2BJWWten40LCrT1n2qyErZUElRmsgYN8hXBfECB6DiyvuYVSoFACo6GRiECtpiwF7iTKRekE4ZA%3D%3D
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/las-estrellas.png",Las Estrellas -2 Horas
+http://premium.exabytetv.info/totalpleix.php?canal=1888&calidad=3&token=SSOMB-1011000010101011011011000110010-ExabyteTV&f=.m3u8
+#EXTINF:-1 tvg-logo="http://www.megacable.com.mx/images/canales/1332_imagen-tv.png",Canal 3 Imagen TV
+http://premium.exabytetv.info/gc/SSOMB-1011000010101011011011000110010-ExabyteTV/1745/exabytetv.m3u8
+#EXTINF:-1 tvg-logo="",Foro TV
+http://premium.exabytetv.info/totalpleix.php?canal=104&calidad=3&token=SSOMB-1011000010101011011011000110010-ExabyteTV&f=.m3u8
+#EXTINF:-1 tvg-logo="",Canal 5
+http://premium.exabytetv.info/totalpleix.php?canal=105&calidad=3&token=SSOMB-1011000010101011011011000110010-ExabyteTV&f=.m3u8
+#EXTINF:-1 tvg-logo="",Az Clic
+http://premium.exabytetv.info/totalpleix.php?canal=103&calidad=3&token=SSOMB-1011000010101011011011000110010-ExabyteTV&f=.m3u8
+#EXTINF:-1 tvg-logo="",Azteca 7
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX19ikQVtMrpd%2B8Pf62I9zBPq52%2BkCtqdXzW2TMFGqNOC2i05FGGKgIg6pYdKBeILqtt9v7DysMergw%3D%3D
+#EXTINF:-1 tvg-logo="http://www.megacable.com.mx/images/canales/1333_azteca-corazon.jpg",Az Corazón
+http://premium.exabytetv.info/totalpleix.php?canal=45&calidad=3&token=SSOMB-1011000010101011011011000110010-ExabyteTV&f=.m3u8
+#EXTINF:-1 tvg-logo="",Gala TV
+http://premium.exabytetv.info/totalpleix.php?canal=109&calidad=3&token=SSOMB-1011000010101011011011000110010-ExabyteTV&f=.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/az-mundo.png",Az Mundo
+http://premium.exabytetv.info/totalpleix.php?canal=276&calidad=3&token=SSOMB-1011000010101011011011000110010-ExabyteTV&f=.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/az-cinema.png",Az Cinema
+http://premium.exabytetv.info/totalpleix.php?canal=425&calidad=3&token=SSOMB-1011000010101011011011000110010-ExabyteTV&f=.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/68.png",Az Noticias
+http://premium.exabytetv.info/totalpleix.php?canal=2&calidad=3&token=SSOMB-1011000010101011011011000110010-ExabyteTV&f=.m3u8
+#EXTINF:-1 tvg-logo="",Azteca 13
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TC_LOGO.png/245px-TC_LOGO.png",Trendy
+http://premium.exabytetv.info/totalpleix.php?canal=279&calidad=3&token=SSOMB-1011000010101011011011000110010-ExabyteTV&f=.m3u8
+#EXTINF:-1 tvg-logo="http://www.cablecom.com.mx/canales/logos/tvabierta/oncetv.png",Once TV
+http://premium.exabytetv.info/totalpleix.php?canal=111&calidad=3&token=SSOMB-1011000010101011011011000110010-ExabyteTV&f=.m3u8
+#EXTINF:-1 tvg-logo="http://www.cablecom.com.mx/canales/logos/tvabierta/canal_22.png",Canal 22
+https://www.youtube.com/watch?v=FCQokXD4RJA
+#EXTINF:-1 tvg-logo="http://www.megacable.com.mx/images/canales/1010_ingenio-tv.png",Ingenio TV
+http://dl-dgtve.xsn.com.mx/dgtve/canal30dgtve.mp4/playlist.m3u8?
+#EXTINF:-1 tvg-logo="http://foromedios.com/uploads/gallery/category_7/gallery_10806_7_66096.png",Once Niños
+https://www.youtube.com/watch?v=FCQokXD4RJA
+#EXTINF:-1 tvg-logo="http://www.cablecom.com.mx/canales/logos/entretenimiento/aprendetv.png",Aprende TV
+http://dl-dgtve.xsn.com.mx/dgtve/canal24dgtve.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.cablecom.com.mx/canales/logos/entretenimiento/tlnovelas.png",Tlnovelas
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2Fe2uwdVns%2F%2BAQUdWR5lrlgt%2FSOQHIWtxWFjgjDodypAIoc2JZM4qdjz32B1ZpNQX0bBt1VaSjkXg%3D%3D
+#EXTINF:-1 tvg-logo="http://www.megacable.com.mx/images/canales/1115_hola-tv.png",Hola TV
+http://premium.exabytetv.info/totalpleix.php?canal=219&calidad=3&token=SSOMB-1011000010101011011011000110010-ExabyteTV&f=.m3u8
+#EXTINF:-1 tvg-logo="",Fox
+http://latino-webtv.ml/stream.m3u8?token=U2FsdGVkX18UYEWgID%2FEDJ2W4arKTeiUZAJzOhuyqSE%2FfjqJ%2BoZgjS%2FWswFBMEPeRROTVmVIVVV%2BERA%2BWHlwX0swwkkxyqhsUhflwbGVHVw%3D
+#EXTINF:-1 tvg-logo="",FX
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX19ReKZFONGSTHeqxDxdA8mHJTDgPWh8v8CF64FdAYU6qHMx%2BJAUZV9zwDRVbaYf8CUEbkjMpYHKgg%3D%3D
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/big/amc.gif",AMC
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2Bk909XF6FidJtqVD9VnpaPEXkOIeimayoPnnhJEPAamOPjCx0pr5mO6ZtcMzfpJ0%2F2wgE3e7OfeQ%3D%3D
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/ae.gif",A&E
+http://premium.exabytetv.info/totalpleix.php?canal=211&calidad=3&token=SSOMB-1011000010101011011011000110010-ExabyteTV&f=.m3u8
+#EXTINF:-1 tvg-logo="",E!
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX18ocus6RzRzScPeDApnii6fQCd5R%2BDt4MLHOOgW6e6lwCe58xcdrIzIuTS9RkoT5x%2BEQPtw85%2FHRA%3D%3D
+#EXTINF:-1 tvg-logo="",Unicable
+http://premium.exabytetv.info/totalpleix.php?canal=218&calidad=3&token=SSOMB-1011000010101011011011000110010-ExabyteTV&f=.m3u8
+#EXTINF:-1 tvg-logo="",TruTV
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2BtnXKVeFWVxne8%2FBlIUMXxWW%2BcZFRLQFJxXEQaEtBBWpowjcN2oGI9hueLH3qxEWwFtaZaIrQvEQ%3D%3D
+#EXTINF:-1 tvg-logo="",Warner
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX18qJlbql5EV35OE15Fh25oPNCscEkV1u%2BH5Rx8oPK9r7ZcXEc6muyFRL2OvSe0pRpQZmjfNp88h%2Bw%3D%3D
+#EXTINF:-1 tvg-logo="",AXN
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2FBnc9Lvk46bPwb7junZqQ1QFizRDyaHz9qeaeTinSJoOsoH9WFPayTkERiMDLeT9gDVjHQVTWxLw%3D%3D
+#EXTINF:-1 tvg-logo="",Discovery Channel
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX191gqzo1jdCzpWgL8MAx6S6%2FEEOlQViihtRNKE%2F9bCzBBy%2Bf4HxPMzPeTkKKLWNjV94StXNxHStnw%3D%3D
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/discoverytheater.png",Discovery Theater
+http://premium.exabytetv.info/totalpleix.php?canal=351&calidad=3&token=SSOMB-1011000010101011011011000110010-ExabyteTV&f=.m3u8
+#EXTINF:-1 tvg-logo="",National Geographic
+http://premium.exabytetv.info/totalpleix.php?canal=377&calidad=3&token=SSOMB-1011000010101011011011000110010-ExabyteTV&f=.m3u8
+#EXTINF:-1 tvg-logo="",Discovery Science
+http://premium.exabytetv.info/totalpleix.php?canal=381&calidad=3&token=SSOMB-1011000010101011011011000110010-ExabyteTV&f=.m3u8
+#EXTINF:-1 tvg-logo="",Discovery Civilization
+http://premium.exabytetv.info/totalpleix.php?canal=382&calidad=3&token=SSOMB-1011000010101011011011000110010-ExabyteTV&f=.m3u8
+#EXTINF:-1 tvg-logo="",Discovery Turbo
+http://premium.exabytetv.info/totalpleix.php?canal=383&calidad=3&token=SSOMB-1011000010101011011011000110010-ExabyteTV&f=.m3u8
+#EXTINF:-1 tvg-logo="",Nat Geo Wild
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX18f8WdKgwUaB2bNC1nvnT4oNVaWOZM0T1r1QfzOWjRKOhA7481orDqXQyWgI6tRKKseHXXq%2FPPZXw%3D%3D
+#EXTINF:-1 tvg-logo="http://www.cablecom.com.mx/canales/logos/mundo-ciencia/history.png",History Channel
+http://premium.exabytetv.info/totalpleix.php?canal=353&calidad=3&token=SSOMB-1011000010101011011011000110010-ExabyteTV&f=.m3u8
+#EXTINF:-1 tvg-logo="",H2
+http://hyper.exabytetv.info/HLS/297/297-SSOMB-1011000010101011011011000110010-ExabyteTV.m3u8
+#EXTINF:-1 tvg-logo="",Animal Planet
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX19BJzkTCS%2BjU78qepKzQ6C0SziQcHjSGy6tjYMd9SFnhB86ZbzY15rfjqCX50XJOs4nuEDUtmb16w%3D%3D
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/MUNDOFOX.svg/320px-MUNDOFOX.svg.png",Mundo Fox
+https://www.youtube.com/watch?v=FCQokXD4RJA
+#EXTINF:-1 tvg-logo="",Telemundo Internacional
+http://hyper.exabytetv.info/HLS/9773/9773-SSOMB-1011000010101011011011000110010-ExabyteTV.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Univision_2013_logo.png",Univisión
+http://hyper.exabytetv.info/HLS/13216/13216-SSOMB-1011000010101011011011000110010-ExabyteTV.m3u8
+#EXTINF:-1 tvg-logo="",Discovery Home & Health
+http://premium.exabytetv.info/totalpleix.php?canal=374&calidad=3&token=SSOMB-1011000010101011011011000110010-ExabyteTV&f=.m3u8
+#EXTINF:-1 tvg-logo="http://www.cablecom.com.mx/canales/logos/hd/discovery_id.png",ID
+http://premium.exabytetv.info/totalpleix.php?canal=263&calidad=3&token=SSOMB-1011000010101011011011000110010-ExabyteTV&f=.m3u8
+#EXTINF:-1 tvg-logo="",Fox Life
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2BgeefipzuZdiYVH4CelktIcr2bp1FE%2BIGkEE4gYPncq%2BmgUSTkmC12u3Q78Q%2Fd%2FFSGcthla7zTRQ%3D%3D
+#EXTINF:-1 tvg-logo="",Glitz
+http://premium.exabytetv.info/totalpleix.php?canal=270&calidad=3&token=SSOMB-1011000010101011011011000110010-ExabyteTV&f=.m3u8
+#EXTINF:-1 tvg-logo="http://masideas.com/files/2015/06/MAS-CHIC.-LOGOTIPO.png",Más Chic
+http://premium.exabytetv.info/totalpleix.php?canal=221&calidad=3&token=SSOMB-1011000010101011011011000110010-ExabyteTV&f=.m3u8
+#EXTINF:-1 tvg-logo="",TLC
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2Bnb%2B1s0CSpcB%2FTQy%2Biiclvumof8rM6HaTEHvn4m54yhYzQjeP9VYF4VQ%2F%2FmvL%2BWreeUdPLqDIR3g%3D%3D
+#EXTINF:-1 tvg-logo="",SyFy
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX19F7ypeYIwUQvGJN5HA3lnzgumAto0ylm9%2BjA1X7rp8HK32PVh7N2jVX8x%2BgTupJtH5h4%2FefvaK9Q%3D%3D
+#EXTINF:-1 tvg-logo="",El Gourmet
+http://premium.exabytetv.info/totalpleix.php?canal=268&calidad=3&token=SSOMB-1011000010101011011011000110010-ExabyteTV&f=.m3u8
+#EXTINF:-1 tvg-logo="",Lifetime
+http://premium.exabytetv.info/totalpleix.php?canal=379&calidad=3&token=SSOMB-1011000010101011011011000110010-ExabyteTV&f=.m3u8
+#EXTINF:-1 tvg-logo="",I.sat
+http://premium.exabytetv.info/totalpleix.php?canal=495&calidad=3&token=SSOMB-1011000010101011011011000110010-ExabyteTV&f=.m3u8
+#EXTINF:-1 tvg-logo="https://static.fubo.tv/channels_origin/origins/1457607108432-8HPuQug7qMz0tFuk.png",UniMas
+https://vaughnlive.tv/unimas29
+#EXTINF:-1 tvg-logo="",Proyecto 40
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/master.m3u8
+#EXTINF:-1 tvg-logo="http://tecache.cl/wp-content/uploads/2012/08/La-Red-logo.png",La Red
+http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone&amp;Referer=http://d1e8b5coppv0r9.cloudfront.net
+#EXTINF:-1 tvg-logo="",Antena 3
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="",Disney Channel
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX19NxV0eOFJ1%2FuHLMwGYQRoQkJb2AbGgA3K87V5Zu1QPL20bJS%2Bv178lckr6mu68nvNEyxs8q5%2BDJA%3D%3D
+#EXTINF:-1 tvg-logo="",Discovery Kids
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2Fihz9fDWu%2FsB8mC9XqmmRxcSdgRFiysTbdmxqFBIC%2BCROGTRFqaiSXFK8C0UGFxNsfp6h5hzOU7A%3D%3D
+#EXTINF:-1 tvg-logo="",Nickelodeon
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2FiwFXRKXfbm9cjep4%2BGtXMGnM%2BNYzt1kZoMGU5Q1Ig5VqPg%2BXy8BGFVlFvaNixxBeNr8o%2B82W0rA%3D%3D
+#EXTINF:-1 tvg-logo="",Nick toons
+http://latinchannel.tv:8000/live/14022015/10122017/47.m3u8#IptvPlay
+#EXTINF:-1 tvg-logo="",Disney XD
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2FJHMxX3RP63XX%2BY87iq0x%2BTq%2F4kyc9ImU3YulyiCDE25P2%2FWHbYYBFg13ScvUqbOiY%2FeNGt6pvrw%3D%3D
+#EXTINF:-1 tvg-logo="",Tiin
+http://premium.exabytetv.info/totalpleix.php?canal=325&calidad=3&token=SSOMB-1011000010101011011011000110010-ExabyteTV&f=.m3u8
+#EXTINF:-1 tvg-logo="http://www.cablecom.com.mx/canales/logos/infantiles/disney_jr.png",Disney Jr
+http://premium.exabytetv.info/totalpleix.php?canal=308&calidad=3&token=SSOMB-1011000010101011011011000110010-ExabyteTV&f=.m3u8
+#EXTINF:-1 tvg-logo="",Nick Jr
+http://premium.exabytetv.info/totalpleix.php?canal=310&calidad=3&token=SSOMB-1011000010101011011011000110010-ExabyteTV&f=.m3u8
+#EXTINF:-1 tvg-logo="",Tooncast
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX18TBDVLfeyNnCXe8XQ%2BTA6%2FxM7RgXyoKJkYSWUSIesraNvq8z4IbcVK9%2F8nnuKxKaU4vV1N14JvBg%3D%3D
+#EXTINF:-1 tvg-logo="",Boomerang
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2BKchYckmo4QsUCUl%2F7NQkptkJcZXcxYcN5X9d4XmEyx0RuJc3BwE58lKQn0%2BT9jHlL6%2F27AsQ1wg%3D%3D
+#EXTINF:-1 tvg-logo="",Cartoon Network
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2FsOR3oWICR%2BwIy%2FaNhwyVrzEjeRO9%2BPruZZk68GftoXhvzWXDarzpsxy5nKKsYCXquWG2HA8q%2Fiw%3D%3D
+#EXTINF:-1 tvg-logo="",Baby TV
+http://hyper.exabytetv.info/HLS/317/317-SSOMB-1011000010101011011011000110010-ExabyteTV.m3u8
+#EXTINF:-1 tvg-logo="http://img2.cda.pl/PV9hYl92cmo9X2QhMDQ2JTU0NCFlN2YpOjdlJDI0My48M2RyZTYzeW8wLmRuYl8tPzMuJTI2Li0_M18lNjA2LjkwNSYxZ2Iu/d501698445e2f577e0213213dfe33eb0.png",Anime TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:-1 tvg-logo="",Distrito Comedia
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX18%2F2JnqCZRsGAanWvdqDVKasugrD%2Br8hytgj30b1vROSgDiOPDccI8OXptQp9uBRJ%2BJtyj2afYqKg%3D%3D
+#EXTINF:-1 tvg-logo="",TBS Very Funny
+http://premium.exabytetv.info/totalpleix.php?canal=273&calidad=3&token=SSOMB-1011000010101011011011000110010-ExabyteTV&f=.m3u8
+#EXTINF:-1 tvg-logo="",Comedy Central
+http://premium.exabytetv.info/totalpleix.php?canal=217&calidad=3&token=SSOMB-1011000010101011011011000110010-ExabyteTV&f=.m3u8
+#EXTINF:-1 tvg-logo="http://www.megacable.com.mx/images/canales/960_claro-video.png",Claro Sport 1
+http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(jjoo2016ch01)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="",AyM Sports
+http://premium.exabytetv.info/totalpleix.php?canal=576&calidad=3&token=SSOMB-1011000010101011011011000110010-ExabyteTV&f=.m3u8
+#EXTINF:-1 tvg-logo="",TDN
+http://159.203.63.115:8081/rstm/Univision-TDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="",ESPN
+http://latino-webtv.ml/stream.m3u8?token=U2FsdGVkX18iuFElQRSBVE6SuaVC1SEf1nZ7Xwnd2dXuNjNqq66iJfi%2FPlHC4HoklvyZh2qpaXLJakHH5h2J3Fiax6nz4qaSMefQowZTFKo%3D
+#EXTINF:-1 tvg-logo="",ESPN 2
+http://premium.exabytetv.info/totalpleix.php?canal=561&calidad=3&token=SSOMB-1011000010101011011011000110010-ExabyteTV&f=.m3u8
+#EXTINF:-1 tvg-logo="",ESPN 3
+http://latino-webtv.ml/stream.m3u8?token=U2FsdGVkX18g6KbSjeZmd7AaGH%2FWXBxqMQe2oozAB8nQfiG1AoP0JOuNbrH0%2BO2BzWadPqLNRM73VUHRolhbIGiKhleB65FlkqGoHmVBalA%3D
+#EXTINF:-1 tvg-logo="",Fox Sports
+http://premium.exabytetv.info/totalpleix.php?canal=522&calidad=3&token=SSOMB-1011000010101011011011000110010-ExabyteTV&f=.m3u8
+#EXTINF:-1 tvg-logo="",Fox Sports 2
+http://premium.exabytetv.info/totalpleix.php?canal=527&calidad=3&token=SSOMB-1011000010101011011011000110010-ExabyteTV&f=.m3u8
+#EXTINF:-1 tvg-logo="",Fox Sports 3
+http://hyper.exabytetv.info/HLS/445/445-SSOMB-1011000010101011011011000110010-ExabyteTV.m3u8
+#EXTINF:-1 tvg-logo="http://www.cablecom.com.mx/canales/logos/deportes/ufc.png",UFC Network
+http://hyper.exabytetv.info/HLS/13074/13074-SSOMB-1011000010101011011011000110010-ExabyteTV.m3u8
+#EXTINF:-1 tvg-logo="http://spbtv.online/tafiimage/711.png",FigthTV Plus
+http://premium.exabytetv.info/tokener/SSOMB-1011000010101011011011000110010-ExabyteTV/702/exabytetv.m3u8
+#EXTINF:-1 tvg-logo="https://static.filmon.com/assets/channels/295/extra_big_logo.png",My Combat Channel
+http://premium.exabytetv.info/tokener/SSOMB-1011000010101011011011000110010-ExabyteTV/586/exabytetv.m3u8
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/pokercentral-profile_image-5d5fcfc4b4225451-300x300.png",Poker Central (USA)
+http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/master.m3u8
+#EXTINF:-1 tvg-logo="",NFL Network
+http://hyper.exabytetv.info/HLS/1003/1003-SSOMB-1011000010101011011011000110010-ExabyteTV.m3u8
+#EXTINF:-1 tvg-logo="",TVC Deportes
+https://www.youtube.com/watch?v=FCQokXD4RJA
+#EXTINF:-1 tvg-logo="",Universal Channel
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX19WBmm7n5F%2F5FAwEowYrGM4tiQOnjW%2F9sWdQTYstcwN%2F%2FMp7aBd8FEfQhAfq7U3KShKAS22%2BVd18A%3D%3D
+#EXTINF:-1 tvg-logo="",Sony
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX18hkkLqPzBtQ1gkfWJohK4RKM0fhJDeyTHuutycFS1qGF0elnEz3TmLjzMktg5AFVjxmmWUvk5zMg%3D%3D
+#EXTINF:-1 tvg-logo="",TNT Series
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX18WeZqQkjubtiWg2opRF%2BdYWdUVL2ATw1vsHFXK0tJMRkana9a%2BoOJ5WbXOx5ad2lbfuxH0UJcU2Q%3D%3D
+#EXTINF:-1 tvg-logo="http://www.cablecom.com.mx/canales/logos/peliculas/depelicula.png",De Película
+http://premium.exabytetv.info/totalpleix.php?canal=442&calidad=3&token=SSOMB-1011000010101011011011000110010-ExabyteTV&f=.m3u8
+#EXTINF:-1 tvg-logo="",Golden Edge
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX19RA%2BmrMsDemsJGguBtgynYbz2pF3ZbP5eFwdImY30tJE10U4u8cvsjPmQ3WWR4uW%2FcmCllU7LGXg%3D%3D
+#EXTINF:-1 tvg-logo="",Golden
+http://premium.exabytetv.info/totalpleix.php?canal=436&calidad=3&token=SSOMB-1011000010101011011011000110010-ExabyteTV&f=.m3u8
+#EXTINF:-1 tvg-logo="",Golden Premier
+http://hyper.exabytetv.info/HLS/4777/4777-SSOMB-1011000010101011011011000110010-ExabyteTV.m3u8
+#EXTINF:-1 tvg-logo="",Studio Universal
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX19Yy%2FhoaRgA1j115Zv5rEmwWl%2F8ELZOGB9ORdzc3WNwLfrhQ5LkAmrB%2FEC4P1WlyohowzkU16Spgw%3D%3D
+#EXTINF:-1 tvg-logo="",TNT
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX18jr17b0pzcz%2Bpe3UE8D6pKLrayWFp2i%2BPdxh0ZxjqwDZhmAV4hIe6%2BMuKjXNdiLJEwEq8%2B0K4UTQ%3D%3D
+#EXTINF:-1 tvg-logo="",Space
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX19XXpC%2Fa2Vc7eZXh7CEKu%2BJTOnepdNWg37sIGtKW0rRvc%2F6vVw%2Fu%2FyIHKEPL4ebjn6Z6xbZ5KPlww%3D%3D
+#EXTINF:-1 tvg-logo="",Cinecanal
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX19D13%2BRtbMiPpfkwpsF60pE3nI3kcojQ8H%2BLBW7i5htCrDlni6tQH94hebWIV8nsyweMeE%2Bmbl%2BFw%3D%3D
+#EXTINF:-1 tvg-logo="",Cinemax
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2BPqf0I8wcEjTBW9EpyEJraESa%2BhRUM5UoRKB8di7XTFRpmK248NZ3qL1ffD83fCiHHTE9cHQRs%2FA%3D%3D
+#EXTINF:-1 tvg-logo="",Film Zone
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX19JhHOZXaeL9YymCYSPqeExLYhIDPHwMf%2B6JYDYUNMAAruiDtBd5UCigAad98XRyxsFBI3ajr4IaQ%3D%3D
+#EXTINF:-1 tvg-logo="https://www.ono.es/ono-resources/img/products-web/logos_parrilla_tv/img_logo_Paramount_Blue.png",Paramount
+https://www.youtube.com/watch?v=FCQokXD4RJA
+#EXTINF:-1 tvg-logo="",TCM
+https://www.youtube.com/watch?v=FCQokXD4RJA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Sundance_Channel_Logo.png",Sundance
+https://www.youtube.com/watch?v=FCQokXD4RJA
+#EXTINF:-1 tvg-logo="",Cine Latino
+http://hyper.exabytetv.info/HLS/477/477-SSOMB-1011000010101011011011000110010-ExabyteTV.m3u8
+#EXTINF:-1 tvg-logo="",Bandamax
+http://premium.exabytetv.info/totalpleix.php?canal=732&calidad=3&token=SSOMB-1011000010101011011011000110010-ExabyteTV&f=.m3u8
+#EXTINF:-1 tvg-logo="",Ritmoson
+http://premium.exabytetv.info/totalpleix.php?canal=731&calidad=3&token=SSOMB-1011000010101011011011000110010-ExabyteTV&f=.m3u8
+#EXTINF:-1 tvg-logo="",Telehit
+http://premium.exabytetv.info/totalpleix.php?canal=702&calidad=3&token=SSOMB-1011000010101011011011000110010-ExabyteTV&f=.m3u8
+#EXTINF:-1 tvg-logo="",VH1
+http://premium.exabytetv.info/totalpleix.php?canal=703&calidad=3&token=SSOMB-1011000010101011011011000110010-ExabyteTV&f=.m3u8
+#EXTINF:-1 tvg-logo="",VH1 Classic
+http://premium.exabytetv.info/totalpleix.php?canal=728&calidad=3&token=SSOMB-1011000010101011011011000110010-ExabyteTV&f=.m3u8
+#EXTINF:-1 tvg-logo="",MTV
+http://premium.exabytetv.info/totalpleix.php?canal=726&calidad=3&token=SSOMB-1011000010101011011011000110010-ExabyteTV&f=.m3u8
+#EXTINF:-1 tvg-logo="",MTV Live
+http://premium.exabytetv.info/totalpleix.php?canal=701&calidad=3&token=SSOMB-1011000010101011011011000110010-ExabyteTV&f=.m3u8
+#EXTINF:-1 tvg-logo="",MTV Hits
+http://premium.exabytetv.info/totalpleix.php?canal=727&calidad=3&token=SSOMB-1011000010101011011011000110010-ExabyteTV&f=.m3u8
+#EXTINF:-1 tvg-logo="",Virgin TV
+http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-NZKc29f6Ijk/UkLwVq2EbdI/AAAAAAAAA-8/oW-9m_4w3LA/s1600/retro_tv_uk.png",Retro TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.megacable.com.mx/images/canales/704_videorola.png",Videorola
+http://hyper.exabytetv.info/HLS/13444/13444-SSOMB-1011000010101011011011000110010-ExabyteTV.m3u8
+#EXTINF:-1 tvg-logo="http://www.megacable.com.mx/images/canales/409_wobi.png",Wobi
+http://premium.exabytetv.info/totalpleix.php?canal=387&calidad=3&token=SSOMB-1011000010101011011011000110010-ExabyteTV&f=.m3u8
+#EXTINF:-1 tvg-logo="http://www.temploanandi.com/wp-content/uploads/2016/02/Excelsior_TV-571992.png",Excelsior TV
+http://hyper.exabytetv.info/HLS/13427/13427-SSOMB-1011000010101011011011000110010-ExabyteTV.m3u8
+#EXTINF:-1 tvg-logo="http://www.megacable.com.mx/images/canales/188_cnne.png",CNN en Espanol
+http://hyper.exabytetv.info/HLS/1855/1855-SSOMB-1011000010101011011011000110010-ExabyteTV.m3u8
+#EXTINF:-1 tvg-logo="http://www.megacable.com.mx/images/canales/192_cnn-internacional.png",CNN Internacional
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD177L240P/playlist.m3u8
+#EXTINF:-1 tvg-logo="",Fox News
+https://www.youtube.com/watch?v=FCQokXD4RJA
+#EXTINF:-1 tvg-logo="http://www.megacable.com.mx/images/canales/86_bbc.png",BBC
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2BaqCKZjsIASJKtp1soBWhABOoWkHrh4fadr2eyRAT5ir9%2FQ4hSHsLUWg331KdzSkX9ftvctKp8zA%3D%3D
+#EXTINF:-1 tvg-logo="http://www.megacable.com.mx/images/canales/606_teleformula.png",Telefórmula
+http://premium.exabytetv.info/totalpleix.php?canal=161&calidad=3&token=SSOMB-1011000010101011011011000110010-ExabyteTV&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/2000px-Russia-today-logo.svg.png",RT en español
+http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index2500.m3u8
+#EXTINF:-1 tvg-logo="",DW
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX19P23KCcPam9eAwopR6ccNMoIBgG2SbbHakrjJJbNTHSl3VQUBqVDZzkPhA6rGOgkXdOlkFVGmdwQ%3D%3D
+#EXTINF:-1 tvg-logo="",Euronews
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
+#EXTINF:-1 tvg-logo="",EfektoTV
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
+#EXTINF:-1 tvg-logo="",Canal 52MX
+https://www.youtube.com/watch?v=FCQokXD4RJA
+#EXTINF:-1 tvg-logo="http://www.megacable.com.mx/images/canales/441_milenio-tv.png",Milenio
+http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956
+#EXTINF:-1 tvg-logo="http://www.megacable.com.mx/images/canales/682_tve.png",TVE
+http://premium.exabytetv.info/totalpleix.php?canal=651&calidad=3&token=SSOMB-1011000010101011011011000110010-ExabyteTV&f=.m3u8
+#EXTINF:-1 tvg-logo="http://airecable.com/images/superbasico-laredo/KW.png",KW
+https://www.youtube.com/watch?v=FCQokXD4RJA
+#EXTINF:-1 tvg-logo="https://fhsscss.byu.edu/images/BYU.png",BYU
+http://byuhd2-lh.akamaihd.net/i/byutvglobalhd2_live@103134/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.megacable.com.mx/images/canales/418_maria-vision.png",María Visión
+http://premium.exabytetv.info/gc/SSOMB-1011000010101011011011000110010-ExabyteTV/1074/exabytetv.m3u8
+#EXTINF:-1 tvg-logo="http://www.cablecom.com.mx/canales/logos/arte-cultura/enlace.png",Enlace
+http://acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/master.m3u8
+#EXTINF:-1 tvg-logo="",HBO
+http://latino-webtv.ml/stream.m3u8?token=U2FsdGVkX1%2BINVtxo2pLJpwLYZXWvFLvJzdI%2Buao5EaiE8X4FBvn4jBgB%2BX7IDmaeiWbd6MzeN%2FBEZ1WyFgcDg%3D%3D
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO 2
+http://hyper.exabytetv.info/HLS/365/365-SSOMB-1011000010101011011011000110010-ExabyteTV.m3u8
+#EXTINF:-1 tvg-logo="",HBO Signature
+https://www.youtube.com/watch?v=FCQokXD4RJA
+#EXTINF:-1 tvg-logo="",HBO Family
+http://159.203.63.115:8081/rstm/HBO-Family/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.cablecom.com.mx/canales/logos/hbo/plus_este.png",HBO Plus Este
+http://hyper.exabytetv.info/HLS/453/453-SSOMB-1011000010101011011011000110010-ExabyteTV.m3u8
+#EXTINF:-1 tvg-logo="http://www.cablecom.com.mx/canales/logos/hbo/plus_oeste.png",HBO Plus Oeste
+http://hyper.exabytetv.info/HLS/369/369-SSOMB-1011000010101011011011000110010-ExabyteTV.m3u8
+#EXTINF:-1 tvg-logo="",Max Latino
+http://hyper.exabytetv.info/HLS/381/381-SSOMB-1011000010101011011011000110010-ExabyteTV.m3u8
+#EXTINF:-1 tvg-logo="",Max Up
+http://hyper.exabytetv.info/HLS/469/469-SSOMB-1011000010101011011011000110010-ExabyteTV.m3u8
+#EXTINF:-1 tvg-logo="http://www.cablecom.com.mx/canales/logos/hbo/maxprime_este.png",Max Prime Este
+http://hyper.exabytetv.info/HLS/377/377-SSOMB-1011000010101011011011000110010-ExabyteTV.m3u8
+#EXTINF:-1 tvg-logo="http://www.cablecom.com.mx/canales/logos/hbo/maxprime_oeste.png",Max Prime Oeste
+http://hyper.exabytetv.info/HLS/379/379-SSOMB-1011000010101011011011000110010-ExabyteTV.m3u8
+#EXTINF:-1 tvg-logo="",Fox 1 HD
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2BZZ9ZxLNuv8x1pEPhqINK6%2BVQBOxJzJOl8jcHWftj15nr09BM%2BfJRX4M3SeP6oUpdHAdyh8dNlvA%3D%3D
+#EXTINF:-1 tvg-logo="",Fox Action
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX1%2FCm2VxVHPZYjn2OCwiRPNwPVirT8uqtRdFsYpOPuuFSWq4cGdC3X2Yk16QJpcmhlWzXZ2cgU9U%2BA%3D%3D
+#EXTINF:-1 tvg-logo="",Fox Movies
+http://latino-webtv.ml/index.m3u8?token=U2FsdGVkX19mJnEOkPvXKRy%2FbKLQW3QGneW%2FWGV4W7zwGT8Ohy%2BpunuLa2j%2FqZUIG0QEaSEhv1rEapsTS%2BNVAg%3D%3D
+#EXTINF:-1 tvg-logo="",Fox Family
+http://159.203.63.115:8081/rstm/FOX-Family/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.cablecom.com.mx/canales/logos/moviecity/foxcinema.png",Fox Cinema
+http://premium.exabytetv.info/totalpleix.php?canal=421&calidad=3&token=SSOMB-1011000010101011011011000110010-ExabyteTV&f=.m3u8
+#EXTINF:-1 tvg-logo="",Fox Classics
+http://premium.exabytetv.info/totalpleix.php?canal=424&calidad=3&token=SSOMB-1011000010101011011011000110010-ExabyteTV&f=.m3u8
+#EXTINF:-1 tvg-logo="",Fox Comedy
+http://hyper.exabytetv.info/HLS/461/461-SSOMB-1011000010101011011011000110010-ExabyteTV.m3u8
+#EXTINF:-1 tvg-logo="https://pixabay.com/static/uploads/photo/2014/04/03/10/25/tv-310415_960_720.png",Comic TV
+https://www.youtube.com/watch?v=FCQokXD4RJA
+#EXTINF:-1 tvg-logo="http://submit.failarmy.com/logo.png",Fail Army
+https://www.youtube.com/watch?v=FCQokXD4RJA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png",Simpsons
+http://latino-webtv.ml/series/simpsons.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/South_Park_sign_logo.png",South Park
+https://www.youtube.com/watch?v=FCQokXD4RJA
+#EXTINF:-1 tvg-logo="",Playboy TV
+http://hyper.exabytetv.info/HLS/289/289-SSOMB-1011000010101011011011000110010-ExabyteTV.m3u8
+#EXTINF:-1 tvg-logo="http://www.cablecom.com.mx/canales/logos/adultos/venus.png",Venus
+http://hyper.exabytetv.info/HLS/285/285-SSOMB-1011000010101011011011000110010-ExabyteTV.m3u8
+#EXTINF:-1 tvg-logo="http://www.cablecom.com.mx/canales/logos/adultos/penthouse.png",Penthose
+rtmp://edge1.everyon.tv/etv1sb/phd10927
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Brazzers-logo.png",Brazzers
+http://93.87.85.71/PLTV/88888888/224/3221226769/04.m3u8
+#EXTINF:-1 tvg-logo="",Hustler
+http://93.87.85.71/PLTV/88888888/224/3221226750/04.m3u8
